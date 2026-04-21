@@ -7,7 +7,7 @@
     ````
 * Connect to busybox:
    ```bash
-   kubectl -n mateapp exec -it busybox -- sh
+   kubectl -n todoapp exec -it busybox -- sh
    ```
 * Execute curl-command:
     ```bash
